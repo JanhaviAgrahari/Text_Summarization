@@ -1,2 +1,2 @@
-# Infosys-demo
-This is a demo repository for Infosys Springboard 6.0
+# Text_Summarization
+This repository is for Infosys Springboard 6.0
